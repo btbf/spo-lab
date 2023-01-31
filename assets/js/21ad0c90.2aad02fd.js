@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbtbf_lab=self.webpackChunkbtbf_lab||[]).push([[211],{218:l=>{l.exports=JSON.parse('{"permalink":"/spo-lab/blog/tags/hola","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbtbf_lab=self.webpackChunkbtbf_lab||[]).push([[212],{4313:s=>{s.exports=JSON.parse('{"permalink":"/spo-lab/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

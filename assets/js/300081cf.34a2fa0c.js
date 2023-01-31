@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbtbf_lab=self.webpackChunkbtbf_lab||[]).push([[947],{7689:a=>{a.exports=JSON.parse('{"label":"facebook","permalink":"/spo-lab/blog/tags/facebook","allTagsPath":"/spo-lab/blog/tags","count":1}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbtbf_lab=self.webpackChunkbtbf_lab||[]).push([[681],{3233:a=>{a.exports=JSON.parse('{"label":"docusaurus","permalink":"/spo-lab/blog/tags/docusaurus","allTagsPath":"/spo-lab/blog/tags","count":4}')}}]);
